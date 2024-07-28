@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_status_of_content">
+    <gsw_status_of_content action="INSERT_OR_UPDATE">
+        <best_practice_allowed_ever>0</best_practice_allowed_ever>
+        <checksum/>
+        <content display_value="Topic Recommendations*">2a2292fbdb935c5048cdd3fa5e9619d2</content>
+        <effective_weight>1</effective_weight>
+        <more_info_visited>false</more_info_visited>
+        <previous_status>1</previous_status>
+        <progress>100</progress>
+        <related_log_entry display_value="2024-07-27 20:53:49">f756642bc3ef8210bbb2fb377d0131eb</related_log_entry>
+        <status>2</status>
+        <sys_class_name>gsw_status_of_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-28 03:45:17</sys_created_on>
+        <sys_id>cf64eca7c3af8210bbb2fb377d01310f</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_1469243_needit_v">2ca5031bc32b0210bbb2fb377d013158</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">2ca5031bc32b0210bbb2fb377d013158</sys_scope>
+        <sys_update_name>gsw_status_of_content_cf64eca7c3af8210bbb2fb377d01310f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-28 03:53:49</sys_updated_on>
+    </gsw_status_of_content>
+</record_update>

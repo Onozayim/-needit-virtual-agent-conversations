@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic_library_usage">
+    <sys_cb_topic_library_usage action="DELETE">
+        <calling_cb_topic_id display_value="Update NeedIt Records">294ec39bc32f0210bbb2fb377d0131a1</calling_cb_topic_id>
+        <library_cb_topic_id display_value="Pause">86d5980f534e2010c232ddeeff7b1238</library_cb_topic_id>
+        <sys_class_name>sys_cb_topic_library_usage</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-28 02:50:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>6dc7582fc32b8210bbb2fb377d01319e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_1469243_needit_v">2ca5031bc32b0210bbb2fb377d013158</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">2ca5031bc32b0210bbb2fb377d013158</sys_scope>
+        <sys_update_name>sys_cb_topic_library_usage_6dc7582fc32b8210bbb2fb377d01319e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-28 02:50:02</sys_updated_on>
+    </sys_cb_topic_library_usage>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt Virtual Agent Conversations">2ca5031bc32b0210bbb2fb377d013158</application>
+        <file_path/>
+        <instance_id>79f54b221b02b51065324089bd4bcb09</instance_id>
+        <instance_name>dev193940</instance_name>
+        <name>sys_cb_topic_library_usage_6dc7582fc32b8210bbb2fb377d01319e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic_library_usage"><sys_cb_topic_library_usage action="INSERT_OR_UPDATE"><calling_cb_topic_id display_value="Update NeedIt Records">294ec39bc32f0210bbb2fb377d0131a1</calling_cb_topic_id><library_cb_topic_id display_value="Pause">86d5980f534e2010c232ddeeff7b1238</library_cb_topic_id><sys_class_name>sys_cb_topic_library_usage</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-28 02:50:02</sys_created_on><sys_domain>global</sys_domain><sys_id>6dc7582fc32b8210bbb2fb377d01319e</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="NeedIt Virtual Agent Conversations" source="x_1469243_needit_v">2ca5031bc32b0210bbb2fb377d013158</sys_package><sys_policy/><sys_scope display_value="NeedIt Virtual Agent Conversations">2ca5031bc32b0210bbb2fb377d013158</sys_scope><sys_update_name>sys_cb_topic_library_usage_6dc7582fc32b8210bbb2fb377d01319e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-28 02:50:02</sys_updated_on></sys_cb_topic_library_usage></record_update>]]></payload>
+        <payload_hash>1866902301</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>20a5031bc32b0210bbb2fb377d01315c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-28 02:50:02</sys_created_on>
+        <sys_id>61c794efc32b8210bbb2fb377d013186</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190f73ebead0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-28 02:50:02</sys_updated_on>
+        <type>Topic Library Usage</type>
+        <update_guid>25c794ef882b8210a8a474d774e36485</update_guid>
+        <update_guid_history>25c794ef882b8210a8a474d774e36485:1866902301</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-28 02:51:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_cb_topic_library_usage">sys_cb_topic_library_usage</sys_db_object>
+        <sys_id>180d1500299a4e92a9b894d13fe19fc4</sys_id>
+        <sys_metadata>6dc7582fc32b8210bbb2fb377d01319e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_1469243_needit_v">2ca5031bc32b0210bbb2fb377d013158</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">2ca5031bc32b0210bbb2fb377d013158</sys_scope>
+        <sys_scope_delete display_value="">56524d51b80643daa83749fc1e9b5b09</sys_scope_delete>
+        <sys_update_name>sys_cb_topic_library_usage_6dc7582fc32b8210bbb2fb377d01319e</sys_update_name>
+        <sys_update_version display_value="sys_cb_topic_library_usage_6dc7582fc32b8210bbb2fb377d01319e">61c794efc32b8210bbb2fb377d013186</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-28 02:51:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
